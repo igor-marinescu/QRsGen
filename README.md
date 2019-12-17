@@ -1,5 +1,6 @@
 # QRsGen
 QR-code simple Generator
+![Alt QRsGen](/resources/screenschot1.png)
 
 ## What is QRsGen
 QRsGen is a simple tool for generating QR-codes.
